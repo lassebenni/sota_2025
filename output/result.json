@@ -1,0 +1,2434 @@
+{
+    "@context": "/api/contexts/Advert",
+    "@id": "/api/adverts_search",
+    "@type": "hydra:Collection",
+    "hydra:member": [
+        {
+            "objectID": 310106,
+            "id": 310106,
+            "consumer": {
+                "id": 242743,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Darren M.",
+                "avatar": "9ce3c7b648459e0af82745cd170f8cd1.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1740087397,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 310106,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 242743,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Darren M.",
+                        "avatar": "9ce3c7b648459e0af82745cd170f8cd1.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 310101,
+            "id": 310101,
+            "consumer": {
+                "id": 242743,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Darren M.",
+                "avatar": "9ce3c7b648459e0af82745cd170f8cd1.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1740087345,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 310101,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 242743,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Darren M.",
+                        "avatar": "9ce3c7b648459e0af82745cd170f8cd1.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 310103,
+            "id": 310103,
+            "consumer": {
+                "id": 242743,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Darren M.",
+                "avatar": "9ce3c7b648459e0af82745cd170f8cd1.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1740087364,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 310103,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 242743,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Darren M.",
+                        "avatar": "9ce3c7b648459e0af82745cd170f8cd1.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 310105,
+            "id": 310105,
+            "consumer": {
+                "id": 242743,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Darren M.",
+                "avatar": "9ce3c7b648459e0af82745cd170f8cd1.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1740087380,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 310105,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 242743,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Darren M.",
+                        "avatar": "9ce3c7b648459e0af82745cd170f8cd1.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 309546,
+            "id": 309546,
+            "consumer": {
+                "id": 242978,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Gijs B.",
+                "avatar": "78e22a20a72f93f12cc259899ad8e407.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1740003948,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 309546,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 242978,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Gijs B.",
+                        "avatar": "78e22a20a72f93f12cc259899ad8e407.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 309528,
+            "id": 309528,
+            "consumer": {
+                "id": 243128,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Elizabeth A.",
+                "avatar": "067aaaf35be5e6091bcd587a971e1776.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1740001228,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 309528,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 243128,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Elizabeth A.",
+                        "avatar": "067aaaf35be5e6091bcd587a971e1776.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 309104,
+            "id": 309104,
+            "consumer": {
+                "id": 242629,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Joseph B.",
+                "avatar": "9d84635a80c3509b8c4afac84fb72d1c.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1739966842,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 309104,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 242629,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Joseph B.",
+                        "avatar": "9d84635a80c3509b8c4afac84fb72d1c.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 309259,
+            "id": 309259,
+            "consumer": {
+                "id": 243288,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Kevin H.",
+                "avatar": "341edecdf25717a39aa0070e59ed52bc.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1739976477,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 309259,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 243288,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Kevin H.",
+                        "avatar": "341edecdf25717a39aa0070e59ed52bc.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 309353,
+            "id": 309353,
+            "consumer": {
+                "id": 243340,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Aleksander P.",
+                "avatar": "5f85c7e0b472c950368bde0497aef6d9.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1739985137,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 309353,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 243340,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Aleksander P.",
+                        "avatar": "5f85c7e0b472c950368bde0497aef6d9.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 309688,
+            "id": 309688,
+            "consumer": {
+                "id": 242977,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Rick V.",
+                "avatar": "1ce7975312c096284b1b014649de95f5.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1740044728,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 309688,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10350,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 242977,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Rick V.",
+                        "avatar": "1ce7975312c096284b1b014649de95f5.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1242,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11592,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 309839,
+            "id": 309839,
+            "consumer": {
+                "id": 242686,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Anke W.",
+                "avatar": "36d9f33aadf3aa2eeb8cb654177d73ac.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1740060485,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 309839,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10400,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 242686,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Anke W.",
+                        "avatar": "36d9f33aadf3aa2eeb8cb654177d73ac.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1248,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11648,
+            "nbAvailableTickets": 1,
+            "severability": false
+        },
+        {
+            "objectID": 308937,
+            "id": 308937,
+            "consumer": {
+                "id": 243102,
+                "hasAvatar": true,
+                "site": "/api/site_configs/309",
+                "publicName": "Peter C.",
+                "avatar": "9ab73e5f2ed24064f068ba800e61b39a.png"
+            },
+            "status": 1,
+            "dateValidityStart": 1739953311,
+            "dateValidityEnd": 1740290400,
+            "tickets": [
+                {
+                    "id": 308937,
+                    "product": {
+                        "id": 14613,
+                        "name": {
+                            "en": "WEEKEND REGULAR",
+                            "nl": "WEEKEND REGULAR",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "description": {
+                            "en": "Normal Phase",
+                            "nl": "Normal Phase",
+                            "de": "",
+                            "es": "",
+                            "fr": "",
+                            "pt": "",
+                            "no": ""
+                        },
+                        "partner": "/api/partners/1",
+                        "category": {
+                            "id": 4054,
+                            "name": {
+                                "en": "WEEKEND TICKETS",
+                                "de": "WEEKEND TICKETS",
+                                "nl": "WEEKEND TICKETS",
+                                "fr": "WEEKEND TICKETS"
+                            },
+                            "endDate": 1740286800,
+                            "venue": "/api/venues/161",
+                            "image": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "contentUrl": null,
+                            "imageUrl": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg",
+                            "imageName": "5487e79fa0ccd0b79e5d4a4c8ced005d.jpg?t=1738857844"
+                        },
+                        "saleStart": 1724148000,
+                        "saleEnd": 1740279600,
+                        "createdAt": 1738857695,
+                        "updatedAt": 1738857695,
+                        "isActive": true
+                    },
+                    "resaleValue": 10400,
+                    "facialValue": 11500,
+                    "consumer": {
+                        "id": 243102,
+                        "hasAvatar": true,
+                        "site": "/api/site_configs/309",
+                        "publicName": "Peter C.",
+                        "avatar": "9ab73e5f2ed24064f068ba800e61b39a.png"
+                    },
+                    "status": 1,
+                    "currency": "EUR",
+                    "usageDateStart": 1739790000,
+                    "usageDateEnd": 1740290400,
+                    "purchaseFees": 1248,
+                    "seats": [],
+                    "notice": null,
+                    "fixedFee": 0
+                }
+            ],
+            "nbCartTickets": 0,
+            "dynamicStatus": 1,
+            "minPrice": 11648,
+            "nbAvailableTickets": 1,
+            "severability": false
+        }
+    ],
+    "hydra:totalItems": 421,
+    "hydra:view": {
+        "@id": "/api/adverts_search?tickets.product.category=4054&existAvailableTickets=true&status=1&orderby%5BnbCartTickets%5D=asc&orderby%5Btickets.resaleValue%5D=asc&itemsPerPage=12&page=1",
+        "@type": "hydra:PartialCollectionView",
+        "hydra:first": "/api/adverts_search?tickets.product.category=4054&existAvailableTickets=true&status=1&orderby%5BnbCartTickets%5D=asc&orderby%5Btickets.resaleValue%5D=asc&itemsPerPage=12&page=1",
+        "hydra:last": "/api/adverts_search?tickets.product.category=4054&existAvailableTickets=true&status=1&orderby%5BnbCartTickets%5D=asc&orderby%5Btickets.resaleValue%5D=asc&itemsPerPage=12&page=36",
+        "hydra:next": "/api/adverts_search?tickets.product.category=4054&existAvailableTickets=true&status=1&orderby%5BnbCartTickets%5D=asc&orderby%5Btickets.resaleValue%5D=asc&itemsPerPage=12&page=2"
+    },
+    "hydra:search": {
+        "@type": "hydra:IriTemplate",
+        "hydra:template": "/api/adverts_search{?consumer.id,consumer.id[],tickets.product.category.event,tickets.product.category.event[],tickets.product.category,tickets.product.category[],status,status[],id,id[],existAvailableTickets,orderby[id],orderby[status],orderby[tickets.resaleValue],orderby[tickets.seatSortKey],groups[],id[or|contains],id[contains],id[starts-with],id[or|starts-with],id[ends-with],id[or|ends-with],id[matches],id[or|matches],id[greater-than],id[or|greater-than],id[less-than],id[or|less-than],id[equal],id[or|equal],id[nequal],id[or|nequal],id[containsa],id[containsj],id[or|containsa],id[or|containsj],tickets.barcode[or|contains],tickets.barcode[contains],tickets.barcode[starts-with],tickets.barcode[or|starts-with],tickets.barcode[ends-with],tickets.barcode[or|ends-with],tickets.barcode[matches],tickets.barcode[or|matches],tickets.barcode[greater-than],tickets.barcode[or|greater-than],tickets.barcode[less-than],tickets.barcode[or|less-than],tickets.barcode[equal],tickets.barcode[or|equal],tickets.barcode[nequal],tickets.barcode[or|nequal],tickets.barcode[containsa],tickets.barcode[containsj],tickets.barcode[or|containsa],tickets.barcode[or|containsj],tickets.id[or|contains],tickets.id[contains],tickets.id[starts-with],tickets.id[or|starts-with],tickets.id[ends-with],tickets.id[or|ends-with],tickets.id[matches],tickets.id[or|matches],tickets.id[greater-than],tickets.id[or|greater-than],tickets.id[less-than],tickets.id[or|less-than],tickets.id[equal],tickets.id[or|equal],tickets.id[nequal],tickets.id[or|nequal],tickets.id[containsa],tickets.id[containsj],tickets.id[or|containsa],tickets.id[or|containsj],consumer.email[or|contains],consumer.email[contains],consumer.email[starts-with],consumer.email[or|starts-with],consumer.email[ends-with],consumer.email[or|ends-with],consumer.email[matches],consumer.email[or|matches],consumer.email[greater-than],consumer.email[or|greater-than],consumer.email[less-than],consumer.email[or|less-than],consumer.email[equal],consumer.email[or|equal],consumer.email[nequal],consumer.email[or|nequal],consumer.email[containsa],consumer.email[containsj],consumer.email[or|containsa],consumer.email[or|containsj],consumer.firstname[or|contains],consumer.firstname[contains],consumer.firstname[starts-with],consumer.firstname[or|starts-with],consumer.firstname[ends-with],consumer.firstname[or|ends-with],consumer.firstname[matches],consumer.firstname[or|matches],consumer.firstname[greater-than],consumer.firstname[or|greater-than],consumer.firstname[less-than],consumer.firstname[or|less-than],consumer.firstname[equal],consumer.firstname[or|equal],consumer.firstname[nequal],consumer.firstname[or|nequal],consumer.firstname[containsa],consumer.firstname[containsj],consumer.firstname[or|containsa],consumer.firstname[or|containsj],consumer.lastname[or|contains],consumer.lastname[contains],consumer.lastname[starts-with],consumer.lastname[or|starts-with],consumer.lastname[ends-with],consumer.lastname[or|ends-with],consumer.lastname[matches],consumer.lastname[or|matches],consumer.lastname[greater-than],consumer.lastname[or|greater-than],consumer.lastname[less-than],consumer.lastname[or|less-than],consumer.lastname[equal],consumer.lastname[or|equal],consumer.lastname[nequal],consumer.lastname[or|nequal],consumer.lastname[containsa],consumer.lastname[containsj],consumer.lastname[or|containsa],consumer.lastname[or|containsj],consumer.id[or|contains],consumer.id[contains],consumer.id[starts-with],consumer.id[or|starts-with],consumer.id[ends-with],consumer.id[or|ends-with],consumer.id[matches],consumer.id[or|matches],consumer.id[greater-than],consumer.id[or|greater-than],consumer.id[less-than],consumer.id[or|less-than],consumer.id[equal],consumer.id[or|equal],consumer.id[nequal],consumer.id[or|nequal],consumer.id[containsa],consumer.id[containsj],consumer.id[or|containsa],consumer.id[or|containsj],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|contains],tickets.product.category.event.siteConfigEvents.siteConfig.id[contains],tickets.product.category.event.siteConfigEvents.siteConfig.id[starts-with],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|starts-with],tickets.product.category.event.siteConfigEvents.siteConfig.id[ends-with],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|ends-with],tickets.product.category.event.siteConfigEvents.siteConfig.id[matches],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|matches],tickets.product.category.event.siteConfigEvents.siteConfig.id[greater-than],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|greater-than],tickets.product.category.event.siteConfigEvents.siteConfig.id[less-than],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|less-than],tickets.product.category.event.siteConfigEvents.siteConfig.id[equal],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|equal],tickets.product.category.event.siteConfigEvents.siteConfig.id[nequal],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|nequal],tickets.product.category.event.siteConfigEvents.siteConfig.id[containsa],tickets.product.category.event.siteConfigEvents.siteConfig.id[containsj],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|containsa],tickets.product.category.event.siteConfigEvents.siteConfig.id[or|containsj],createdAt[or|contains],createdAt[contains],createdAt[starts-with],createdAt[or|starts-with],createdAt[ends-with],createdAt[or|ends-with],createdAt[matches],createdAt[or|matches],createdAt[greater-than],createdAt[or|greater-than],createdAt[less-than],createdAt[or|less-than],createdAt[equal],createdAt[or|equal],createdAt[nequal],createdAt[or|nequal],createdAt[containsa],createdAt[containsj],createdAt[or|containsa],createdAt[or|containsj],tickets.product.name[or|contains],tickets.product.name[contains],tickets.product.name[starts-with],tickets.product.name[or|starts-with],tickets.product.name[ends-with],tickets.product.name[or|ends-with],tickets.product.name[matches],tickets.product.name[or|matches],tickets.product.name[greater-than],tickets.product.name[or|greater-than],tickets.product.name[less-than],tickets.product.name[or|less-than],tickets.product.name[equal],tickets.product.name[or|equal],tickets.product.name[nequal],tickets.product.name[or|nequal],tickets.product.name[containsa],tickets.product.name[containsj],tickets.product.name[or|containsa],tickets.product.name[or|containsj],status[or|contains],status[contains],status[starts-with],status[or|starts-with],status[ends-with],status[or|ends-with],status[matches],status[or|matches],status[greater-than],status[or|greater-than],status[less-than],status[or|less-than],status[equal],status[or|equal],status[nequal],status[or|nequal],status[containsa],status[containsj],status[or|containsa],status[or|containsj]}",
+        "hydra:variableRepresentation": "BasicRepresentation",
+        "hydra:mapping": [
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event",
+                "property": "tickets.product.category.event",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event[]",
+                "property": "tickets.product.category.event",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category",
+                "property": "tickets.product.category",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category[]",
+                "property": "tickets.product.category",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "existAvailableTickets",
+                "property": "existAvailableTickets",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "orderby[id]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "orderby[status]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "orderby[tickets.resaleValue]",
+                "property": "tickets.resaleValue",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "orderby[tickets.seatSortKey]",
+                "property": "tickets.seatSortKey",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "groups[]",
+                "property": null,
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|contains]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[contains]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[starts-with]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|starts-with]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[ends-with]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|ends-with]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[matches]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|matches]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[greater-than]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|greater-than]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[less-than]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|less-than]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[equal]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|equal]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[nequal]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|nequal]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[containsa]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[containsj]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|containsa]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "id[or|containsj]",
+                "property": "id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|contains]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[contains]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[starts-with]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|starts-with]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[ends-with]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|ends-with]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[matches]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|matches]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[greater-than]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|greater-than]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[less-than]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|less-than]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[equal]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|equal]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[nequal]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|nequal]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[containsa]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[containsj]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|containsa]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.barcode[or|containsj]",
+                "property": "tickets.barcode",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|contains]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[contains]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[starts-with]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|starts-with]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[ends-with]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|ends-with]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[matches]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|matches]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[greater-than]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|greater-than]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[less-than]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|less-than]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[equal]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|equal]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[nequal]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|nequal]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[containsa]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[containsj]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|containsa]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.id[or|containsj]",
+                "property": "tickets.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|contains]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[contains]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[starts-with]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|starts-with]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[ends-with]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|ends-with]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[matches]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|matches]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[greater-than]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|greater-than]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[less-than]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|less-than]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[equal]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|equal]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[nequal]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|nequal]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[containsa]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[containsj]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|containsa]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.email[or|containsj]",
+                "property": "consumer.email",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|contains]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[contains]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[starts-with]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|starts-with]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[ends-with]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|ends-with]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[matches]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|matches]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[greater-than]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|greater-than]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[less-than]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|less-than]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[equal]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|equal]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[nequal]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|nequal]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[containsa]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[containsj]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|containsa]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.firstname[or|containsj]",
+                "property": "consumer.firstname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|contains]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[contains]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[starts-with]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|starts-with]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[ends-with]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|ends-with]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[matches]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|matches]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[greater-than]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|greater-than]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[less-than]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|less-than]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[equal]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|equal]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[nequal]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|nequal]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[containsa]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[containsj]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|containsa]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.lastname[or|containsj]",
+                "property": "consumer.lastname",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|contains]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[contains]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[starts-with]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|starts-with]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[ends-with]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|ends-with]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[matches]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|matches]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[greater-than]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|greater-than]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[less-than]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|less-than]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[equal]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|equal]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[nequal]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|nequal]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[containsa]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[containsj]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|containsa]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "consumer.id[or|containsj]",
+                "property": "consumer.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|contains]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[contains]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[starts-with]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|starts-with]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[ends-with]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|ends-with]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[matches]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|matches]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[greater-than]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|greater-than]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[less-than]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|less-than]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[equal]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|equal]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[nequal]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|nequal]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[containsa]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[containsj]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|containsa]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.category.event.siteConfigEvents.siteConfig.id[or|containsj]",
+                "property": "tickets.product.category.event.siteConfigEvents.siteConfig.id",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|contains]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[contains]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[starts-with]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|starts-with]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[ends-with]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|ends-with]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[matches]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|matches]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[greater-than]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|greater-than]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[less-than]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|less-than]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[equal]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|equal]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[nequal]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|nequal]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[containsa]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[containsj]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|containsa]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "createdAt[or|containsj]",
+                "property": "createdAt",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|contains]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[contains]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[starts-with]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|starts-with]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[ends-with]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|ends-with]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[matches]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|matches]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[greater-than]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|greater-than]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[less-than]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|less-than]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[equal]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|equal]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[nequal]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|nequal]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[containsa]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[containsj]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|containsa]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "tickets.product.name[or|containsj]",
+                "property": "tickets.product.name",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|contains]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[contains]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[starts-with]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|starts-with]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[ends-with]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|ends-with]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[matches]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|matches]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[greater-than]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|greater-than]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[less-than]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|less-than]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[equal]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|equal]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[nequal]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|nequal]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[containsa]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[containsj]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|containsa]",
+                "property": "status",
+                "required": false
+            },
+            {
+                "@type": "IriTemplateMapping",
+                "variable": "status[or|containsj]",
+                "property": "status",
+                "required": false
+            }
+        ]
+    }
+}

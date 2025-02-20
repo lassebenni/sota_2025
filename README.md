@@ -1,4 +1,3 @@
-# git-scraper-ns-storingen
-Storingen API
+# SOTA 2025
 
-[View results](https://flatgithub.com/lassebenni/git-scraper-ns-storingen/blob/main/storingen.json)
+[View results](https://flatgithub.com/lassebenni/sota_2025/blob/main/results.json)
