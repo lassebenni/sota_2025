@@ -24,4 +24,6 @@ headers = {
 response = requests.request("GET", url, headers=headers, data=payload)
 
 with open("results.json", "w") as f:
-    json.dump([item["tickets"] for item in response.json()["hydra:member"]], f)
+    json.dump(
+        [item["tickets"] for item in response.json()["hydra:member"]], f, indent=4
+    )
