@@ -23,5 +23,5 @@ headers = {
 
 response = requests.request("GET", url, headers=headers, data=payload)
 
-with open("results.json", "w") as f:
+with open("results.json", "a") as f:
     json.dump(response.json()["hydra:member"], f)
