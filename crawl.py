@@ -23,5 +23,11 @@ headers = {
 
 response = requests.request("GET", url, headers=headers, data=payload)
 
+tickets = response.json()["hydra:member"]
+lowest_price = {"minPrice": min([x["minPrice"] for x in tickets])}
+
 with open("results.json", "w") as f:
     json.dump(response.json()["hydra:member"], f)
+
+with open("lowest_price.json", "w") as f:
+    json.dump(lowest_price, f)

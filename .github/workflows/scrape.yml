@@ -18,6 +18,19 @@ jobs:
         uses: actions/checkout@v2
       - name: Fetch latest data
         run: python crawl.py
+      - name: Check lowest price
+        id: check_price
+        run: |
+          python -c "import json; price = json.load(open('lowest_price.json'))['minPrice']; print(f'minPrice={price}')" >> $GITHUB_OUTPUT
+      - name: Send Telegram notification
+        if: steps.check_price.outputs.minPrice < 10000
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_CHAT_ID }}
+          token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          message: |
+            Low price alert!
+            Current lowest price: ${{ steps.check_price.outputs.minPrice }}
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
