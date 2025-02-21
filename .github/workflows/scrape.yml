@@ -35,7 +35,7 @@ jobs:
           python -c "import json; price = json.load(open('lowest_price.json'))['minPrice']; print(f'minPrice={price}')" >> $GITHUB_OUTPUT
 
       - name: Send Telegram notification
-        if: steps.check_price.outputs.minPrice <= 10000
+        if: steps.check_price.outputs.minPrice <= 13000
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
