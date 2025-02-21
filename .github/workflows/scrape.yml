@@ -16,12 +16,24 @@ jobs:
     steps:
       - name: Check out this repo
         uses: actions/checkout@v2
+
       - name: Fetch latest data
         run: python crawl.py
+
       - name: Check lowest price
         id: check_price
         run: |
           python -c "import json; price = json.load(open('lowest_price.json'))['minPrice']; print(f'minPrice={price}')" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
+
       - name: Send Telegram notification
         if: steps.check_price.outputs.minPrice < 10000
         uses: appleboy/telegram-action@master
@@ -31,11 +43,3 @@ jobs:
           message: |
             Low price alert!
             Current lowest price: ${{ steps.check_price.outputs.minPrice }}
-      - name: Commit and push if it changed
-        run: |-
-          git config user.name "Automated"
-          git config user.email "actions@users.noreply.github.com"
-          git add -A
-          timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
-          git push
